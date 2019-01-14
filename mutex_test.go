@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/gomodule/redigo/redis"
+	"github.com/garyburd/redigo/redis"
 	"github.com/stvp/tempredis"
 )
 
